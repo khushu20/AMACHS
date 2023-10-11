@@ -1,4 +1,4 @@
-package com.example.amachs
+package cgg.gov.societymobileapp
 
 import io.flutter.embedding.android.FlutterActivity
 
